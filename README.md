@@ -1,7 +1,7 @@
 # iINTERACT
 
-An app / site in which anyone can post their article and can also read others article. This app emphasizes 
-on the interaction of people among the same network or server
+An app in which anyone can upload their article (along with images) and can also read others article. This app emphasizes 
+on the interaction of people among the same network.
 
 
 This app is built on IONIC Framework.
