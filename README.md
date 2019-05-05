@@ -1,6 +1,6 @@
 # iINTERACT
 
-An app in which anyone can upload their article (along with images) and can also read others article. This app emphasizes 
+A social media app in which anyone can upload their article (along with images) and can also read others article. This app emphasizes 
 on the interaction of people among the same network.
 
 
